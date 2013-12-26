@@ -1,5 +1,7 @@
 package com.agusk;
 
+// source from http://www.rgagnon.com/javadetails/java-0596.html
+
 import java.io.UnsupportedEncodingException;
 
 public class StringUtils {
