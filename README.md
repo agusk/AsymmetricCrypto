@@ -1,6 +1,6 @@
 ## AsymmetricCrypto
 
-Sample of Asymmetric Cryptographic in Java.
+Sample of Asymmetric Cryptography in Java.
 
 ## Usage
 
